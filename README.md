@@ -70,3 +70,9 @@ redux 怎么使用
 什么是受控组件什么是非受控组件
 
 Fragment  <> 简短形式  对应在vue中的  template
+共享数据使用context 来进行传递
+Context 提供了一个无需为每层组件手动添加 props，就能在组件树间进行数据传递的方法
+生命周期 在api reference 中需要仔细查看
+
+
+代码分割   context
